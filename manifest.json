@@ -1,0 +1,12 @@
+{
+  "name": "TCP Live Companion | رادار هوشمند عرشیا عزیزپور",
+  "short_name": "TCP Radar",
+  "description": "سیستم پایش ثانیه‌به‌ثانیه مارکت کریپتو بر اساس ۹۳ ویدیوی آموزشی عرشیا عزیزپور (تریسی پرو)",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#070a12",
+  "theme_color": "#0b0f19",
+  "orientation": "portrait-primary",
+  "lang": "fa",
+  "dir": "rtl"
+}
