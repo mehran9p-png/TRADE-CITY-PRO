@@ -1,0 +1,21 @@
+{
+  "name": "TCP Radar | دستیار آموزشی تحلیل ساختار و ریسک بازار",
+  "short_name": "TCP Radar",
+  "description": "ابزار آموزشی بررسی ساختار بازار، میانگین‌های متحرک، عمق سفارشات و مدیریت ریسک کریپتو",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#060911",
+  "theme_color": "#060911",
+  "orientation": "any",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
